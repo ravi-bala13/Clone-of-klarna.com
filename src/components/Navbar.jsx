@@ -1,9 +1,12 @@
 import "./Navbar.css";
+import icon from "../public/icon.png";
 
 function Navbar() {
   return (
     <div className="navbar">
-      <div className="left-icon">icon</div>
+      <div className="left-icon">
+        <img src={icon} alt="" />
+      </div>
       <div className="titles">
         <p>Shop</p>
         <p>How it works</p>

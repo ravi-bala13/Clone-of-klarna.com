@@ -1,0 +1,110 @@
+{
+  "productsData": [
+    {
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDmRGWAoyBX-cnWRmm3waCuziMi4pKSB_yQqPBhwhv6BWOmy9m",
+      "name": "Dell",
+      "desc": "Time to compute deals",
+      "price": 92377,
+      "cutPrice": 202999
+    },
+    {
+      "img": "https://i5.walmartimages.com/asr/9323ffeb-8e5a-4d4a-ae71-5e2cfc627836.14001318efddf371c5c27852c371a538.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "name": "Michaels",
+      "desc": "Deals on Creative Tech",
+      "price": 47999,
+      "cutPrice": 89999
+    },
+    {
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuXzmLZTwap3-uuE1ovbcbhtmb-fiVa-AEHJf7KY8Ja8OwN7lI",
+      "name": "Kiehl's Canada",
+      "desc": "Get ready to glow",
+      "price": 93500,
+      "cutPrice": 187000
+    },
+    {
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9Cm4lG5W00jQoClIc3N3GWTz2ctFOChAtEipDWe5Ts8KWZsl2",
+      "name": "Rodan + Fields",
+      "desc": "Life-changing skin products",
+      "price": 99400,
+      "cutPrice": 198800
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6wESyUxrSdmwgyXC9ONMBbP5zM0RSJGhPvMkYSg_eWSWBf9D6",
+      "name": "Michael Kors",
+      "desc": "Spring accessories",
+      "price": 19499,
+      "cutPrice": 22990
+    },
+    {
+      "img": "https://t0.gstatic.com/images?q=tbn:ANd9GcTsP1J_vRUiHAOFQ036ICRdEFnER7QdX3cXI7vFx3HrHfWPqsp0",
+      "name": "Saks Fifth Avenue",
+      "desc": "Instantly iconic footwear",
+      "price": 23599,
+
+      "cutPrice": 33999
+    },
+    {
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUVIReGCfXJ51AsXSMQOsznd3XUXsM4aiJ6aYNQ7q_Mmud1MnJ",
+      "name": "Camper",
+      "desc": "Instantly iconic footwear",
+      "price": 26299,
+      "cutPrice": 48999
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8GHb99jCdCKGewf9ov7VOYF3T61xlEEIxPN3Zw_sZ7_qdvK7",
+      "name": "Reebok",
+      "desc": "Shoe check up",
+      "price": 59974,
+      "cutPrice": 64999
+    },
+    {
+      "img": "https://cdn.shopify.com/s/files/1/0933/1060/products/nike-air-vapormax-3-flyknit-white-1-pure-platinum-aj6900-102_620x.jpg",
+      "name": "Journeys",
+      "desc": "Time for a new pair",
+      "price": 47999,
+      "cutPrice": 85999
+    },
+    {
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQprs-Dn3IcZgKABdVINdHectiJEbH73sMvY4c90W9j4YWmv-Ku",
+      "name": "Foot Locker",
+      "desc": "Sneak attack",
+      "price": 65449,
+      "cutPrice": 142999
+    },
+    {
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsTWbiAvUqr1LtLa8TNSItwqAFJYtGT3ChHGFDuOgfHSzjan7U",
+      "name": "Bluemercury",
+      "desc": "Get ready to glow",
+      "price": 21999,
+      "cutPrice": 35999
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_ru4RtMEZgS3B1slsR3WsQrPYoqLNiJ-wHL1rcRNvk4vcv3Y",
+      "name": "Perfumania",
+      "desc": "Sweet scents",
+      "price": 22999,
+      "cutPrice": 35999
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtE5Yn-byJN3WOGlRckXzw32oYhFeARKGyB_LmkZDpbhmtXN2",
+      "name": "Priceline",
+      "desc": "Adventure awaits",
+      "price": 22999,
+      "cutPrice": 35999
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhtw8qCZW5vndbWvss4Z7R6JhTvh5ajih7P7_3UY35wdmD0yp",
+      "name": "Aurate",
+      "desc": "Our humankind sale",
+      "price": 92377,
+      "cutPrice": 202999
+    },
+    {
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHT768tg2M6KxdIZX5JVwRVLGqM961pGCMDZ6hWGWZwNPdL7qV",
+      "name": "No7",
+      "desc": " Discover NO7 skincare",
+      "price": 21999,
+      "cutPrice": 35999
+    }
+  ]
+}
