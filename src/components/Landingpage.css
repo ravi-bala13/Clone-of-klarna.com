@@ -6,8 +6,16 @@
   flex-direction: row;
 }
 
+body {
+  /* opacity: 0.5; */
+}
+
 .left-side {
   width: 25%;
+}
+
+.categories > p {
+  cursor: pointer;
 }
 
 .right-side {

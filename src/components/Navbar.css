@@ -31,6 +31,11 @@ div {
   /* flex-basis: 90px; */
 }
 
+#get-app-btn {
+  background-color: black;
+  color: wheat;
+}
+
 .right-btns {
   width: 200px;
   display: flex;

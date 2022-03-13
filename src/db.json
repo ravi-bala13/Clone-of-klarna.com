@@ -5,106 +5,144 @@
       "name": "Dell",
       "desc": "Time to compute deals",
       "price": 92377,
-      "cutPrice": 202999
+      "cutPrice": 202999,
+      "type": "computer"
     },
     {
       "img": "https://i5.walmartimages.com/asr/9323ffeb-8e5a-4d4a-ae71-5e2cfc627836.14001318efddf371c5c27852c371a538.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
       "name": "Michaels",
       "desc": "Deals on Creative Tech",
       "price": 47999,
-      "cutPrice": 89999
+      "cutPrice": 89999,
+      "type": ""
     },
     {
       "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuXzmLZTwap3-uuE1ovbcbhtmb-fiVa-AEHJf7KY8Ja8OwN7lI",
       "name": "Kiehl's Canada",
       "desc": "Get ready to glow",
       "price": 93500,
-      "cutPrice": 187000
+      "cutPrice": 187000,
+      "type": "perfume"
     },
     {
       "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9Cm4lG5W00jQoClIc3N3GWTz2ctFOChAtEipDWe5Ts8KWZsl2",
       "name": "Rodan + Fields",
       "desc": "Life-changing skin products",
       "price": 99400,
-      "cutPrice": 198800
+      "cutPrice": 198800,
+      "type": ""
     },
     {
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6wESyUxrSdmwgyXC9ONMBbP5zM0RSJGhPvMkYSg_eWSWBf9D6",
       "name": "Michael Kors",
       "desc": "Spring accessories",
       "price": 19499,
-      "cutPrice": 22990
+      "cutPrice": 22990,
+      "type": ""
     },
     {
       "img": "https://t0.gstatic.com/images?q=tbn:ANd9GcTsP1J_vRUiHAOFQ036ICRdEFnER7QdX3cXI7vFx3HrHfWPqsp0",
       "name": "Saks Fifth Avenue",
       "desc": "Instantly iconic footwear",
       "price": 23599,
-
-      "cutPrice": 33999
+      "cutPrice": 33999,
+      "type": ""
     },
     {
       "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUVIReGCfXJ51AsXSMQOsznd3XUXsM4aiJ6aYNQ7q_Mmud1MnJ",
       "name": "Camper",
       "desc": "Instantly iconic footwear",
       "price": 26299,
-      "cutPrice": 48999
+      "cutPrice": 48999,
+      "type": ""
     },
     {
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8GHb99jCdCKGewf9ov7VOYF3T61xlEEIxPN3Zw_sZ7_qdvK7",
       "name": "Reebok",
       "desc": "Shoe check up",
       "price": 59974,
-      "cutPrice": 64999
+      "cutPrice": 64999,
+      "type": "shoes"
     },
     {
       "img": "https://cdn.shopify.com/s/files/1/0933/1060/products/nike-air-vapormax-3-flyknit-white-1-pure-platinum-aj6900-102_620x.jpg",
       "name": "Journeys",
       "desc": "Time for a new pair",
       "price": 47999,
-      "cutPrice": 85999
+      "cutPrice": 85999,
+      "type": "shoes"
     },
     {
       "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQprs-Dn3IcZgKABdVINdHectiJEbH73sMvY4c90W9j4YWmv-Ku",
       "name": "Foot Locker",
       "desc": "Sneak attack",
       "price": 65449,
-      "cutPrice": 142999
+      "cutPrice": 142999,
+      "type": "shoes"
     },
     {
       "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsTWbiAvUqr1LtLa8TNSItwqAFJYtGT3ChHGFDuOgfHSzjan7U",
       "name": "Bluemercury",
       "desc": "Get ready to glow",
       "price": 21999,
-      "cutPrice": 35999
+      "cutPrice": 35999,
+      "type": "perfume"
     },
     {
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_ru4RtMEZgS3B1slsR3WsQrPYoqLNiJ-wHL1rcRNvk4vcv3Y",
       "name": "Perfumania",
       "desc": "Sweet scents",
       "price": 22999,
-      "cutPrice": 35999
+      "cutPrice": 35999,
+      "type": "perfume"
+    },
+    {
+      "img": "data:image/jpeg;base64,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",
+      "name": "Strappy Midi ",
+      "desc": "Orange Floral Daisy Strappy Midi Dress with Tan Belt",
+      "price": 21999,
+      "cutPrice": 35999,
+      "type": "clothes"
     },
     {
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtE5Yn-byJN3WOGlRckXzw32oYhFeARKGyB_LmkZDpbhmtXN2",
       "name": "Priceline",
       "desc": "Adventure awaits",
       "price": 22999,
-      "cutPrice": 35999
+      "cutPrice": 35999,
+      "type": ""
     },
     {
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhtw8qCZW5vndbWvss4Z7R6JhTvh5ajih7P7_3UY35wdmD0yp",
       "name": "Aurate",
       "desc": "Our humankind sale",
       "price": 92377,
-      "cutPrice": 202999
+      "cutPrice": 202999,
+      "type": ""
     },
     {
       "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHT768tg2M6KxdIZX5JVwRVLGqM961pGCMDZ6hWGWZwNPdL7qV",
       "name": "No7",
       "desc": " Discover NO7 skincare",
       "price": 21999,
-      "cutPrice": 35999
+      "cutPrice": 35999,
+      "type": "perfume"
+    },
+    {
+      "img": "https://res.cloudinary.com/mtree/image/upload/q_auto,f_auto,dpr_auto/Downy_US_MW/PcNilJSfjIoVVlJFCDPwn/9d9a5454b819bc27c29ad894156cb7ec/Five_quick_tips_to_help_prevent_clothes_from_fading_2x.jpg",
+      "name": "Midi top",
+      "desc": "White Animal Print Tiered Midi Dress",
+      "price": 21999,
+      "cutPrice": 35999,
+      "type": "clothes"
+    },
+    {
+      "img": "https://4.imimg.com/data4/PP/LG/FUSIONI-3201282/prod-image-500x500.jpg",
+      "name": "Midi top",
+      "desc": "White Animal Print Tiered Midi Dress",
+      "price": 21999,
+      "cutPrice": 35999,
+      "type": "babies"
     }
   ]
 }

@@ -15,11 +15,24 @@ function Landingpage() {
     setToshow(products.productsData);
   }, []);
 
+  const handleSort = (val) => {
+    if (val == "all") {
+      setToshow(products.productsData);
+      return;
+    }
+    let ans = productlist.filter((e) => {
+      let tem = e.type.toUpperCase();
+
+      if (tem.startsWith(val.toUpperCase())) return e;
+    });
+    console.log("ans:", ans);
+    setToshow(ans);
+  };
+
   const sortFunction = (val) => {
     let ans = productlist.filter((e) => {
-      // console.log("e:", e.song);
       let tem = e.name.toUpperCase();
-      // console.log("tem:", val.toUpperCase());
+
       if (tem.startsWith(val.toUpperCase())) return e;
     });
     console.log("ans:", ans);
@@ -42,12 +55,14 @@ function Landingpage() {
         <div className="left-side">
           <div className="categories">
             <h1>Categories</h1>
-            <p>All</p>
-            <p>Babies & Kids</p>
-            <p>Clothing & Apparel</p>
-            <p>Computers & Accessories</p>
-            <p>Consumer Electronics</p>
-            <p>Education</p>
+            <p onClick={() => handleSort("all")}>All</p>
+            <p onClick={() => handleSort("babies")}>Babies & Kids</p>
+            <p onClick={() => handleSort("clothes")}>Clothing & Apparel</p>
+            <p onClick={() => handleSort("computer")}>
+              Computers & Accessories
+            </p>
+            <p onClick={() => handleSort("shoes")}>shoes</p>
+            <p onClick={() => handleSort("perfume")}>Perfumes</p>
             <p>Gifts</p>
             <p>Health & Beauty</p>
             <p>Holidays & Occasions</p>

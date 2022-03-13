@@ -16,7 +16,7 @@ function Navbar() {
       </div>
       <div className="right-btns">
         <button>Login</button>
-        <button>Get the app</button>
+        <button id="get-app-btn">Get the app</button>
       </div>
     </div>
   );
